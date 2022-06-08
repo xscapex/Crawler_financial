@@ -3,7 +3,7 @@
 
 
 
-Msql Docker
+Mysql Docker
 ---
 
 docker volume create mysql
