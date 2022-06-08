@@ -1,7 +1,7 @@
 # Crawler_financial
 ===
 
-
+![image](https://github.com/xscapex/Crawler_financial/blob/main/flow.PNG)
 
 Mysql Docker
 ---
