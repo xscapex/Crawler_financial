@@ -30,6 +30,9 @@ payload = dict(
     start_date="2022-06-05",
     end_date="2022-06-05",
 )
+
 res = requests.get("http://127.0.0.1:8888/taiwan_stock_price", params=payload)
+
 df = pd.DataFrame(res.json()["data"])
+
 df
